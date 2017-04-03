@@ -1,6 +1,6 @@
 ##
 ##
-## COursera: Exploratory Data Analysis, Week 4
+## Coursera: Exploratory Data Analysis, Week 4
 ## Peer-graded Assignment: Course Project 2
 ## 
 ## 
